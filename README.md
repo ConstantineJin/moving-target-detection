@@ -1,2 +1,4 @@
 # moving-target-detection
-Moving target detection based on GMM using openCV
+Moving target(pedestrian) detection based on GMM using openCV
+## How to use
+Simply put your video in the test folder and run main.py
